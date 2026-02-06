@@ -28,7 +28,7 @@ const config: Config = {
         docs: {
           sidebarPath: './sidebars.ts',
           editUrl:
-            'https://github.com/clement-antoine-xavier/bichique'
+            'https://github.com/clement-antoine-xavier/bichique/edit/main/'
         },
         blog: {
           showReadingTime: true,
@@ -36,7 +36,7 @@ const config: Config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          editUrl: 'https://github.com/clement-antoine-xavier/bichique',
+          editUrl: 'https://github.com/clement-antoine-xavier/bichique/edit/main/',
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
