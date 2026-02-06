@@ -2,46 +2,32 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Bichique Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Let's discover **Bichique in less than 5 minutes**.
 
-## Getting Started
+## What is Bichique?
 
-Get started by **creating a new site**.
+**Bichique** is an open-source C++ documentation project designed to provide a **clear, practical, and project-driven** approach to learning C++. The name "Bichique" symbolizes growth and potential, reflecting the project’s goal to help developers progress from foundational concepts to advanced applications.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## Key Features
 
-### What you'll need
+- **Structured Learning Path:** Covers C++ basics, object-oriented programming (OOP), the Standard Template Library (STL), and advanced topics like memory management, multithreading, and systems programming.
 
-- [Node.js](https://nodejs.org/en/download/) version 20.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+- **Real-World Examples:** Includes code snippets and mini-projects to reinforce concepts, with a focus on practical applications.
 
-## Generate a new site
+- **Community Collaboration:** Encourages contributions from developers to expand and refine the content.
 
-Generate a new Docusaurus site using the **classic template**.
+## Target Audience
 
-The classic template will automatically be added to your project after you run the command:
+- Students and self-taught programmers.
+- Developers transitioning to C++ from other languages.
+- Open-source enthusiasts interested in systems programming, game development, or cloud-native applications.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+## Project Goals
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+- Bridge the gap between academic learning and industry-relevant C++ skills.
+- Promote open-source collaboration and best practices in software development.
 
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+We hope you find **Bichique** a valuable resource on your journey to mastering modern C++!
+Happy coding!
