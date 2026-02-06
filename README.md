@@ -1,41 +1,22 @@
-# Website
+# **Bichique** – Modern C++ Documentation
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+**Description:**
 
-## Installation
+*Bichique* is an open-source C++ documentation project designed to provide a **clear, practical, and project-driven** approach to learning C++. The name "Bichique" symbolizes growth and potential, reflecting the project’s goal to help developers progress from foundational concepts to advanced applications.
 
-```bash
-yarn
-```
+## **Key Features:**
 
-## Local Development
+- **Structured Learning Path:** Covers C++ basics, object-oriented programming (OOP), the Standard Template Library (STL), and advanced topics like memory management, multithreading, and systems programming.
+- **Real-World Examples:** Includes code snippets and mini-projects to reinforce concepts, with a focus on practical applications.
+- **Community Collaboration:** Encourages contributions from developers to expand and refine the content.
 
-```bash
-yarn start
-```
+## **Target Audience:**
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+- Students and self-taught programmers.
+- Developers transitioning to C++ from other languages.
+- Open-source enthusiasts interested in systems programming, game development, or cloud-native applications.
 
-## Build
+## **Project Goals:**
 
-```bash
-yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-## Deployment
-
-Using SSH:
-
-```bash
-USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```bash
-GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+- Bridge the gap between academic learning and industry-relevant C++ skills.
+- Promote open-source collaboration and best practices in software development.
