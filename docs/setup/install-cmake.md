@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Install CMake
 
-CMake is a popular cross-platform build system that simplifies the build process for C++ projects. Follow the instructions below to install CMake on your system.
+CMake is a popular cross-platform build system that simplifies the build process for C/C++ projects. Follow the instructions below to install CMake on your system.
 
 ## Windows
 

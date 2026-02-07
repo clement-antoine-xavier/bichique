@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Bichique',
-  tagline: 'Modern C++ Documentation',
+  tagline: 'Modern C/C++ Documentation',
   favicon: 'img/favicon.ico',
   future: {
     v4: true, // Improve compatibility with the upcoming Docusaurus v4

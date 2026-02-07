@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Create Your First Executable
 
-Now that you have your C++ compiler and CMake installed, let's create your first C++ executable using CMake.
+Now that you have your C/C++ compiler and CMake installed, let's create your first C/C++ executable using CMake.
 
 ## Step 1: Create a Project Directory
 
@@ -15,14 +15,14 @@ mkdir bichique-first-executable
 cd bichique-first-executable
 ```
 
-## Step 2: Create a Simple C++ Source File
+## Step 2: Create a Simple C/C++ Source File
 
 Create a file named `main.cpp` and add the following code:
 
 ```cpp
 #include <iostream>
 
-int main() {
+int main(void) {
     std::cout << "Hello, Bichique!" << std::endl;
     return 0;
 }
@@ -64,4 +64,4 @@ You should see the output:
 Hello, Bichique!
 ```
 
-Congratulations! You've successfully created and run your first C++ executable using CMake. You're now ready to explore more advanced C++ topics with Bichique!
+Congratulations! You've successfully created and run your first C/C++ executable using CMake. You're now ready to explore more advanced C/C++ topics with Bichique!
