@@ -16,12 +16,14 @@ function HomepageHeader() {
         <Heading as="h1" className="hero__title">
           {siteConfig.title}
         </Heading>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <p className="hero__subtitle">
+          A modern, practical, project-driven guide to learning C/C++.
+        </p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
+            Start learning C/C++
           </Link>
         </div>
       </div>
@@ -33,8 +35,8 @@ export default function Home(): ReactNode {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`${siteConfig.title} — Modern C/C++ Documentation`}
+      description="Bichique is an open-source C/C++ documentation project with a clear, practical, project-driven learning path.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
